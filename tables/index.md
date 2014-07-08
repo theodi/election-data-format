@@ -65,7 +65,7 @@ TODO: anything further about packaging?
 A contest data file provides basic metadata about an electoral contest. This includes the date(s) during which the contest was held, the type of election and the electoral system being used.
 
 |Column|Name|Required?|Type|Description|
-|------|----|---------|-----------|
+|------|----|---------|----|-----------|
 |1|Contest ID|Yes|URI|A URI providing a unique identifier for the individual electoral contest|
 |2|Name|Yes|String|A name for the election, e.g. "UK Parliamentary Election 2015"|
 |3|Election Type|Yes|String|The type of election. This should ideally draw from a controlled vocabulary|
@@ -92,7 +92,7 @@ The choices data file is used to publish a basic description of the choices pres
 However for some electoral systems, particular those using a proportional system that uses [an electoral list](https://en.wikipedia.org/wiki/Electoral_list), voters are choosing between parties rather than individual candidates. The actual candidates who take office are not directly voted for by the electoral and may be nominated by the winning party. An example is the European Parliamentary Elections. Voters in the EU choose a political party and then individual MEPs are allocated seats based on the number of votes won by each party. In this type of election no candidate details would be included in the choices file and an additional "seats" data file would be published (see below).
 
 |Column|Name|Required?|Type|Description|
-|------|----|---------|-----------|
+|------|----|---------|----|-----------|
 |1|Contest ID|Yes|URI|A URI providing a unique identifier for the individual electoral contest|
 |2|Region ID|Yes|URI|A URI identifying the region in which the contest is taking place|
 |3|Region Name|String|Yes|The name of the region in which the contest is taking place|
@@ -107,7 +107,7 @@ However for some electoral systems, particular those using a proportional system
 The seats data file is used to provide a list of the candidates who have been allocated granted political office following an election. The format of the file overlaps with the choices data file. However for elections based on votes choosing from [an electoral list](https://en.wikipedia.org/wiki/Electoral_list) the contents will be different to that of the choices data file. The choices file will provide the results for individual parties, and the seats data file will list the individual people voted into office.
 
 |Column|Name|Required?|Type|Description|
-|------|----|---------|-----------|
+|------|----|---------|----|-----------|
 |1|Contest ID|Yes|URI|A URI providing a unique identifier for the individual electoral contest|
 |2|Region ID|Yes|URI|A URI identifying the region in which the contest is taking place|
 |3|Region Name|Yes|String|The name of the region in which the contest is taking place|
@@ -122,8 +122,8 @@ The seats data file is used to provide a list of the candidates who have been al
 
 The Voting Data file provides high-level statistics about the voting activity for an election, this provides a means for publishing data on returns for an election according to both the voting method used and the category of vote, e.g. valid or invalid.
 
-|Column|Name|Required?|Description|
-|------|----|---------|-----------|
+|Column|Name|Required|Description|
+|------|----|---------|----|-----------|
 |1|Region ID|Yes|URI|A URI identifying the region in which the votes are being reported|
 |2|Region Name|Yes|String|The name of the identified region|
 |3|Electorate|Yes|Integer|The size of the electorate in the specified region. This column will have the same value for all rows.
@@ -134,7 +134,7 @@ The Voting Data file provides high-level statistics about the voting activity fo
 The vote category column should use one of the following values. This vocabulary draws on [the definitions defined by the ACE Project](http://aceproject.org/ace-en/topics/vc/vce/vce02/vce02b)
 
 |Category|Parent Category|Description|
-|--------|---------------|-----------|
+|--------|---------------|----|-----------|
 |Issued|-|All ballots issued, regardless of whether they were returned.
 |Valid|Issued|All valid votes
 |Spoilt|Issued|A spoiled ballot is generally one that a voter has inadvertently spoiled by marking it incorrectly; it is handed back to the voting station officers in exchange for a new blank ballot that is then marked by the voter and placed in the ballot box
