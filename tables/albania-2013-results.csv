@@ -1,0 +1,72 @@
+"Contest ID","Region ID","Region Name","Party ID","Party Name","Candidate ID","Candidate Name","Elected","Seats"
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ad","Aleanca Demokratike",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/bld","Bashkimi Liberal Demokrat",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ldk","Partia Lidhja Demokristiane Shqiptare",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/paa","Partia Agrare Ambientaliste e Shqipërisë",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/amie","Aleanca e Maqedonasve për Integrimin Europian",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ads","Aleanca për Demokraci  dhe Solidaritet",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbk","Partia Balli Kombëtar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbkd","Balli Kombëtar Demokrat  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdresh","Partia Demokracia e Re Europiane  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pd","Partia Demokratike  ",,,"true",50
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdmere","Parti e të Drejtave të Mohuara e Re  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pfa","Partia Forca Albania",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pll","Partia Lëvizja e Legalitetit ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/posh","Partia Ora e Shqipërisë ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdi","Partia për Drejtësi dhe Integrim ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pr","Partia Republikane Shqiptare  ",,,"true",3
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/lzhk","Lëvizja për Zhvillim Kombëtar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbd","Partia Bashkimi Demokrat Shqiptar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdk","Partia Demokristiane e Shqipërisë  ",,,"true",1
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/prdsh","Partia e Reformave Demokratike Shqiptare ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pkons","Partia Konservatore  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/prrl","Partia Rruga e Lirisë ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pesh","Partia Emigracioni Shqiptar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/mega","Partia Minoriteti Etnik Grek për të Ardhmen  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdm","Partia e të Drejtave të Mohuara  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdiu","Partia Drejtësi, Integrim dhe Unitet  ",,,"true",4
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/prrvsh","Partia Rruga e Vërtetë Shqiptare  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/plshr","Partia Lëvizja Shqipëria e Re  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbppsh","Partia Bashkimi Popullor i Pensionistëve Shqiptar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ldlnj","Lëvizja për të Drejtat dhe Liritë e Njeriut ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/lsi","Levizja Socialiste për Integrim  ",,,"true",16
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pgj","Partia e Gjelbër  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pmde","Partia për Mbrojtjen e të Drejtave të Emigrantëve  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/psv91","Partia Socialiste e Vërtetë 91  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ptr","Partia Toleranca e Re e Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbdnj","Partia Bashkimi për të Drejtat e Njeriut  ",,,"true",1
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pds","Partia Demokracia Sociale  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/g99","Partia G 99  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/psd","Partia Socialdemokrate e Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ps","Partia Socialiste e Shqipërisë  ",,,"true",65
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/plidr","Ligj dhe Drejtesi  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ap","Aleanca Popullore  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pmdl","Partia Mendimi i Djathtë Liberal  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ppsh","Partia e Punës së Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/puk","Partia Unitetit Kombetar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/psha","Partia Shqiptare Atdheu  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ppk","Partia Pajtimit Kombëtar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pksh","Partia Komuniste e Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ppshr","Partia e Punës e Shqipërisë e Riorganizuar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pbrsh","Partia Bashkimi Republikan Shqiptar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/prl","Partia Rruga e Lirisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/aak","Aleanca Arbnore Kombëtare  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pkd","Partia Kristian Demokrate e Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/abde","Aleanca për Barazi dhe Drejtësi Europiane  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pa","Partia Ambientaliste  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pcsh","Partia e Çështjeve Shqiptare   ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/prd","Partia e Reformave Demokratike Shqiptare",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pkn","Partia Komuniste e Shqipërisë 8 Nëntori ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pspsh","Partia Socialpuntore Shqiptare  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pdip","Partia Demokrate për Integrim e Prosperitet  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ldsh","Lëvizja për Drejtësi e Shqipëtarëve  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ppak","Partia Personat me Aftësi të Kufizuar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/adk","Partia Aleanca Demokristiane e Shqipërisë  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/plps","Partia Lëvizja Punëtore Shqiptare  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pash","Partia Ardhmërija Shqiptare  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/psm","Partia Socialiste e Moderuar  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/pldn","Partia Lëvizja Demokratike për Ndryshim  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/ak","Aleanca Kuq e Zi  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA","http://example.org/albania/frd","Fryma e Re Demokratike  ",,,"false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA",,,,"Dritan Vlash Prifti","false",0
+"http://example.org/albania/2013","http://example.org/albania/albania","ALBANIA",,,,"Arben Qamil Malaj","false",0
