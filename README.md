@@ -26,7 +26,7 @@ In order to gain the most benefits, election data should be:
 
 Two approaches will be defined: a tabular format and a graph (Linked Data) based format. Both of these will share the conceptual model outlined in the research paper. The graph based model will be derivable from the tabular formats.
 
-## Tabular
+## Election Data Tables
 
 A tabular format for election data should be:
 
@@ -37,11 +37,11 @@ A tabular format for election data should be:
 * Make reference to standard terms, code lists and reference data to ensure that data is clearly documented
 * Focused on supporting transparency of electoral processes, rather than driving process automation.
 
-Read the specification for [tabular election data](https://github.com/theodi/election-data-format/blob/gh-pages/tables/index.md) reporting. 
+Read the draft __[Election Data Tables](https://github.com/theodi/election-data-format/blob/gh-pages/tables/index.md)__ specification.
 
 View the example data files in the [tables](https://github.com/theodi/election-data-format/tree/gh-pages/tables) directory.
 
-## Graph Model
+## Election Data Graph Model
 
 In-progress!
 
