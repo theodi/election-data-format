@@ -4,13 +4,18 @@ This project defines some open data formats design to support the publication of
 
 The goal is to define formats that are suitable for use on an international basis, to support publication of election data from a wide variety of different sources and for different electoral systems. 
 
+## Quick Links
+
+* [Publishing Open Election Data](https://docs.google.com/document/d/1gyPpfod0eGzzutyZuak_xe5ZcY8hcWzH3onTScBoTPU/edit?usp=sharing) research paper
+* [Election Data Tables](https://github.com/theodi/election-data-format/blob/gh-pages/tables/index.md) specification
+
 ## Background Research
 
 The design of the data formats has been guided by the results of a short research project exploring current practices relating to the publication, collection and sharing of election data.
 
 In addition to a reviewing of current practices, the research project explored some of the properties of different electoral systems in order to identify a simple conceptual model that could underpin the design of various data interchange formats.
 
-The results of this project have been written up in a publicly accessible paper: [Publishing Open Election Data](https://docs.google.com/document/d/1gyPpfod0eGzzutyZuak_xe5ZcY8hcWzH3onTScBoTPU/edit?usp=sharing).
+The results of this project have been written up in a publicly accessible paper: __[Publishing Open Election Data](https://docs.google.com/document/d/1gyPpfod0eGzzutyZuak_xe5ZcY8hcWzH3onTScBoTPU/edit?usp=sharing)__.
 
 ## High-Level Requirements
 
@@ -43,7 +48,9 @@ View the example data files in the [tables](https://github.com/theodi/election-d
 
 ## Election Data Graph Model
 
-In-progress!
+Recognising that election data consists of statistical data (vote counts, etc) and reference data (geographies, controlled vocabularies) the graph model will be based on the RDF Data Cube.
+
+TODO: publish draft vocabularies.
 
 ## License
 
