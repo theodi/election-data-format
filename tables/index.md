@@ -1,4 +1,5 @@
-# Tabular Election Data
+# Election Data Tables
+
 _Leigh Dodds, Open Data Institute, 5th August 2014._
 
 This specification defines a number of simple tabular (CSV) data formats intended to support the publication of open data about elections, including:
