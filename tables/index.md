@@ -51,7 +51,7 @@ The following general requirements apply to all formats:
 * Files MUST be published as UTF-8 CSV files according to the [Model for Tabular Data and Metadata on the Web](http://w3c.github.io/csvw/syntax/)
 * Identifiers for Regions, Parties, Candidates, etc MUST all be URLs. Where possible those URLs SHOULD be drawn from official sources. Ideally URLs SHOULD resolve into additional metadata about the resource, but the metadata made available and the formats provided are outside the scope of this specification.
 * All URLs MUST be expressed as absolute rather than relative URIs 
-* Where several files are published together, the files SHOUDL be organised into a [Data Package](http://dataprotocols.org/data-packages/)
+* Where several files are published together, the files SHOULD be organised into a [Data Package](http://dataprotocols.org/data-packages/)
 * Column names MUST use the names given in the documentation and schemas defined below
 * Column values may be empty to indicate null results but columns MUST NOT be omitted
 * Dates MUST be either a valid XML Schema [date](http://www.w3.org/TR/xmlschema-2/#date) or [dateTime](http://www.w3.org/TR/xmlschema-2/#dateTime) value, e.g. `yyyy-mm-dd`
